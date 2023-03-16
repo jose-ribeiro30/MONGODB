@@ -9,6 +9,8 @@ Aulas de banco de dados não relacional - Fatec 2023
 <p>Com o arquivo json que o professor disponibilizou consegui realizar consultas e usar o diretorio, além de buscas bem específicas. </p>
  
  <h3>Algumas delas:</h3>
+ 
+ 
 ```
 show collections
 ```
