@@ -20,7 +20,41 @@ db.livros.count()
 ```
 
 ```
-db.livros.insertMany([{"title":"SaciPererê","isbn":"100","pageCount":0,"publishedDate":ISODate("2000-10-01T07:00:00Z"), "status" : "PUBLISH", "authors" : [ ],"categories" : [ ]},{"title":"ACuca","isbn":"99","pageCount":0,"publishedDate":ISODate("2000-10-01T07:00:00Z"), "status" : "PUBLISH","authors" : [ ],"categories" : [ ]},{"title":"Curupira","isbn":"98","pageCount":0,"publishedDate":ISODate("2000-10-01T07:00:00Z"), "status":"PUBLISH", "authors":[ ], "categories" : [ ]},{"title":"JecaTatu","isbn":"97","pageCount":0,"publishedDate":ISODate("2000-10-01T07:00:00Z"),"status":"PUBLISH", "authors" : [ ],"categories" : [ ]}
+db.livros.insertMany([{
+"title":"SaciPererê",
+"isbn":"100",
+"pageCount":0,
+"publishedDate":ISODate("2000-10-01T07:00:00Z"), 
+"status" : "PUBLISH", 
+"authors" : [ ],
+"categories" : [ ]},{
+"title":"ACuca",
+"isbn":"99",
+"pageCount":0,
+"publishedDate":ISODate("2000-10-01T07:00:00Z"), 
+"status" : "PUBLISH",
+"authors" : [ ],
+"categories" : [ ]},{
+"title":"Curupira",
+"isbn":"98",
+"pageCount":0,
+"publishedDate":ISODate("2000-10-01T07:00:00Z"), 
+"status":"PUBLISH", 
+"authors":[ ], 
+"categories" : [ ]},{
+"title":"JecaTatu",
+"isbn":"97",
+"pageCount":0,
+"publishedDate":ISODate("2000-10-01T07:00:00Z"),
+"status":"PUBLISH", 
+"authors" : [ ],
+"categories" : [ ]}
 ```
 
 Fazendo as atividades e disponibilizando o link para o professor!
+
+
+
+
+
+
