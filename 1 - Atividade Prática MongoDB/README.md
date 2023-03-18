@@ -11,6 +11,7 @@ Aulas de banco de dados não relacional - Fatec 2023
  <h3>Algumas delas:</h3>
 
  <h2>Exercício 1</h2>
+ 
  ```
  show dbs
  ```
@@ -18,6 +19,7 @@ Aulas de banco de dados não relacional - Fatec 2023
  <hr>
  
  <h2>Exercício 2</h2>
+ 
  ```
  use aula 
  ```
@@ -25,6 +27,7 @@ Aulas de banco de dados não relacional - Fatec 2023
  <hr>
  
  <h2>Exercício 3</h2>
+ 
 ```
 show collections
 ```
@@ -32,6 +35,7 @@ show collections
 <hr>
 
 <h2>Exercício 4</h2>
+
 ```
 db.livros.count()
 ```
