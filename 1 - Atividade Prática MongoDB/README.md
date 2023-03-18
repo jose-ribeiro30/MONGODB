@@ -43,22 +43,26 @@ db.livros.count()
 <hr>
 
 <h2>Exercício 5</h2>
+
 ![adawgg](https://user-images.githubusercontent.com/106207655/226125383-11c4eaca-67fa-4bef-b28c-28a2b3430f36.png)
 
 <hr>
 
 <h2>Exercício 6</h2>
+
 ![image](https://user-images.githubusercontent.com/106207655/226125719-b48ed9a2-3e94-43e8-ba68-64611d5df1ee.png)
 
 
 <hr>
 
 <h2>Exercício 7</h2>
+
 ![image](https://user-images.githubusercontent.com/106207655/226123325-e2074dd6-7eaa-4bed-81e9-b2c156995812.png)
 
 <hr>
 
 <h2>Exercício 8</h2>
+
 ![image](https://user-images.githubusercontent.com/106207655/226123404-acd2a675-2b8f-4b2a-8060-b45138dd1a88.png)
 
 ```
