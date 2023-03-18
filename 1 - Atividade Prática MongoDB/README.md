@@ -19,6 +19,13 @@ show collections
 db.livros.count()
 ```
 
+Exercício 7
+![image](https://user-images.githubusercontent.com/106207655/226123325-e2074dd6-7eaa-4bed-81e9-b2c156995812.png)
+
+
+Exercício 8
+![image](https://user-images.githubusercontent.com/106207655/226123404-acd2a675-2b8f-4b2a-8060-b45138dd1a88.png)
+
 ```
 db.livros.insertMany([{
 "title":"SaciPererê",
@@ -50,6 +57,8 @@ db.livros.insertMany([{
 "authors" : [ ],
 "categories" : [ ]}
 ```
+
+
 
 Fazendo as atividades e disponibilizando o link para o professor!
 
